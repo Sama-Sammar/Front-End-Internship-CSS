@@ -1,0 +1,51 @@
+/*part1*/
+.shape {
+  background-color: #ddd;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding: 40px;
+  margin: 20px;
+  display: inline-block;
+  outline:5px solid black; 
+}
+
+.shape1 {
+  border: 5px solid red;
+}
+
+.shape2 {
+  border-top: 5px solid blue;
+  border-bottom: 5px solid blue;
+  border-left: 5px solid green;
+  border-right: 5px solid green;
+}
+
+.shape3 {
+  border-top: 5px dashed red;
+  border-right: 5px dashed green;
+  border-bottom: 5px dashed blue;
+  border-left: 5px dashed yellow;
+}
+/*part2*/
+.element{
+  width: 400px;
+  background: #eee;
+  padding: 25px 20px;       
+  padding-left: 40px;       
+  font-size: 28px;
+  font-weight: bold;
+  border-left: 10px solid;
+}
+
+.element-1{
+  border-left-color: rgb(240, 5, 158); 
+}
+
+.element-2{
+  visibility: hidden;
+}
+
+.element-3{
+  border-left-color: rgb(2, 75, 2);
+}

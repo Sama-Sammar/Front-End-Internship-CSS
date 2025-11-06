@@ -1,0 +1,23 @@
+Part 1:-
+Create three <div> elements side by side.
+Each one should have the same width and height.
+Give each shape a gray background color and center the text inside.
+Add an outline of 5px solid black around each shape.
+Then, add borders with the following styles and colors:
+
+Shape 1: All borders solid red (5px).
+
+Shape 2: Top and bottom borders solid blue (5px), left and right borders solid green (5px).
+
+Shape 3: Top border dashed red, right border dashed green, bottom border dashed blue, left border dashed yellow — all 5px.
+
+Part 2:-
+You have three <div> elements with the same text.
+Your job is to style them using only CSS.
+
+Requirements:
+Each box should be 400px wide.
+
+Add a colored vertical line on the left side of each box.
+
+The second element should stay in its position but not shown in the page.

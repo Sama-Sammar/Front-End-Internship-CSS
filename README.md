@@ -10,6 +10,7 @@ Each folder includes a separate assignment with its question and solution (relat
 ---
 
 ## 🧩 Assignments Included
-- **Assignment 1: Background, Repeat  
+- Assignment 1: Background, Repeat 
+- Assignment 2: Border, Outline, Display
 
 ---

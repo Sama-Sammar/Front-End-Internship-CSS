@@ -1,0 +1,43 @@
+.div1{
+    width: 500px;
+    padding: 20px;
+    margin: 20px auto;
+    color: white;
+}
+
+.assign-1-shape-1{
+    background-color: rgb(138, 43, 226);
+}
+
+.assign-1-shape-2{
+    background-color: rgb(138, 43, 226, 0.5);
+}
+
+.assign-1-shape-3{
+    background-color: rgb(138, 43, 226, .2);
+}
+
+.div2{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    background-image: url(../Screenshot\ 2025-11-06\ 145651.png);
+}
+.assign-2-shape-1{
+    background-repeat: no-repeat; 
+}
+
+.assign-2-shape-2{
+    background-repeat: repeat-y;
+    background-position: right;   
+}
+
+.assign-2-shape-3{
+    background-repeat: repeat-x; 
+    background-position: bottom;  
+}
+
+.assign-2-shape-4{
+    background-repeat: repeat;    
+}

@@ -1,0 +1,35 @@
+Create an HTML and CSS file to complete the following tasks:
+
+Part 1:
+
+Create three div elements, each with the same size and padding.
+
+Set the width of each div to 500px, center them horizontally, and add 20px of inner padding.
+
+Give each div a background color of blueviolet, but show the color in three different ways:
+
+Using RGB notation.
+
+Using RGB with Alpha transparency (0.5).
+
+Using RGB with Alpha transparency (0.2).
+
+Each div should display the text "Normal Div".
+
+Part 2:
+
+Create four div elements, each with a width and height of 400px.
+
+Use the provided image as a background for each div.
+
+For each shape, apply the following background settings:
+
+Shape 1: Do not repeat the background image.
+
+Shape 2: Repeat the background image vertically and align it to the right.
+
+Shape 3: Repeat the background image horizontally and align it to the bottom.
+
+Shape 4: Repeat the background image both horizontally and vertically.
+
+Each div should display the text "Shape 1", "Shape 2", "Shape 3", and "Shape 4" respectively.

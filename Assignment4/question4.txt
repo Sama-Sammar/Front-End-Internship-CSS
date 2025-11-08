@@ -1,0 +1,46 @@
+Part 1:-
+Using the given HTML structure (do not modify it),
+<p>Elzero Web School</p>
+style the text to look exactly like the example using multiple text-shadow effects and the same colors.
+
+Part 2:-
+Using the same HTML structure below,
+<p class="one">elzero web school</p>
+<p class="two">elzero web school</p>
+<p class="three">elzero web school</p>
+style each paragraph so that the text appears in uppercase, capitalize, and lowercase, exactly as shown in the image.
+
+Part 3:-
+Using the following HTML structure (do not modify it),
+<div>
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+  Ea itaque fugit vitae incidunt quis dolores? Id alias
+  eveniet sequi perspiciatis iusto impedit,
+  accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
+</div>
+make sure the element has the same colors and padding as shown in the example,
+and set its width to 400px.
+
+The first shape shows the normal state where text wraps to the next line.
+
+The second shape shows a short text that doesn’t reach the end.
+
+The third shape uses the same long text as the first,
+but you must cut the text at the end of the container and show three dots (…) automatically instead of overflowing text.
+(Do not type the dots manually.)
+
+Part 4:-
+Use the following HTML structure without modifying it:
+<a href="https://elzero.org">elzero</a>
+
+Then, using CSS only, do the following:
+
+Make sure the link appears exactly in the center.
+
+Style the link so it looks exactly like the example (same colors, font size, padding, border, etc.).
+
+Use the same colors and make sure the result matches the example image perfectly.
+
+
+
+

@@ -1,0 +1,52 @@
+.paragh {
+  font-size: 80px;
+  font-weight: bold;
+  color: black;
+  text-shadow: 2px 2px 0 red, 4px 4px 0 blue, 6px 6px 0 purple;
+}
+
+.one {
+  text-transform: uppercase;
+}
+
+.two {
+  text-transform: capitalize;
+}
+
+.three {
+  text-transform: lowercase;
+}
+
+.all {
+  background-color: #eee;
+  color: #333;
+  padding: 20px;
+  margin: 20px auto;
+  width: 400px;
+  border: 2px solid #ccc;
+}
+
+.normal {
+  white-space: normal;
+}
+
+.short {
+  white-space: normal;
+}
+
+.ellipsis {
+  white-space: nowrap;       
+  overflow: hidden;          
+  text-overflow: ellipsis;   
+}
+
+a{
+      text-decoration: none;
+      background-color: #009688;
+      color: white;
+      font-size: 80px;
+      font-weight: bold;
+      padding: 60px 120px;
+      border-bottom: 20px solid #045c52;
+      text-transform: capitalize;
+}

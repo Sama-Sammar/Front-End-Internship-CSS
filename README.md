@@ -13,5 +13,6 @@ Each folder includes a separate assignment with its question and solution (relat
 - Assignment 1: Background, Repeat 
 - Assignment 2: Border, Outline, Display
 - Assignment 3: Nesting, Dimensions, Overflow 
+- Assignment 4: Text Formatting
 
 ---

@@ -1,0 +1,30 @@
+Part 1:-
+<div class="parent">
+  <div class="child">This Is Child <span class="title">Title</span></div>
+  <span class="title">Child Title</span>
+  <p>Paragraph Content</p>
+</div>
+<div class="title">Section Title</div>
+
+Use the following HTML structure without making any changes to it.
+Then do the following using CSS nesting selectors:
+
+Color the word “Title” in red.
+
+Color the text “Child Title” in blue.
+
+Color the text “Paragraph Content” in green.
+
+Color the text “Section Title” in green.
+
+Group all similar colors together.
+
+Part 2:-
+Create shapes set a background color and text color.
+
+Do not use display: block explicitly; keep the default element display.
+
+Give each shape a width of 400px.
+
+In the last element, you can see that some text is overflowing outside the box.
+Your task: Hide any text that goes outside the box using the appropriate CSS property.

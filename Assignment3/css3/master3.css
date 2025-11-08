@@ -1,0 +1,27 @@
+.parent .child .title{
+    color: red;
+}
+
+.parent .title{
+    color: blue;
+}
+
+.parent p,
+.title{
+    color: green;
+}
+
+.assign-2-shape-1,
+.assign-2-shape-2,
+.assign-2-shape-3,
+.assign-2-shape-4 {
+  background-color: brown;
+  color: white;
+  padding: 10px;
+  width: 400px;
+  margin: 10px auto;
+}
+
+.assign-2-shape-4 {
+  overflow: hidden;
+}

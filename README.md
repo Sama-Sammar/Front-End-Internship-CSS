@@ -14,5 +14,6 @@ Each folder includes a separate assignment with its question and solution (relat
 - Assignment 2: Border, Outline, Display
 - Assignment 3: Nesting, Dimensions, Overflow 
 - Assignment 4: Text Formatting
+- Assignment 5: Inheritance, Typography
 
 ---

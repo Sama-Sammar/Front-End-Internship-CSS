@@ -1,0 +1,31 @@
+Part 1:-
+You have a parent container of 800px width with multiple child <div> elements. The child divs should be arranged in different column widths using float:
+
+.full → full width (1/1)
+
+.third → one-third width (1/3)
+
+.half → half width (1/2)
+
+.quarter → quarter width (1/4)
+
+Make sure to include proper margin and padding and clear floats at the end using .clear.
+
+Part 2:-
+You have three <div> elements:
+
+<div class="normal d2">Normal</div>
+<div class="one d2">One</div>
+<div class="two d2">Two</div>
+
+Requirements:
+
+All three elements use the same background, but the transparency is different for each:
+
+Normal → normal background.
+
+One → background is lighter (use background-color with alpha 0.1).
+
+Two → both background and text are semi-transparent (use opacity: 0.1).
+
+Keep the text black for .normal and .one.

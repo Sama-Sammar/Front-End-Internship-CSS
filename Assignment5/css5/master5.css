@@ -1,0 +1,50 @@
+.d1 {
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  font-size: 20px;
+  border: 5px solid;
+  border-color: red;
+}
+.d1 .p1 {
+  border: inherit;
+  border-color: inherit;
+  padding: inherit;
+  background-color: #b4afaf;
+}
+
+.f1{ 
+    font-family: 'Open Sans';
+    font-weight: 300;
+    font-style: italic;
+    font-size: 60px;
+}
+
+.f2{
+    font-family: 'Cairo';
+    font-weight: 700;
+    font-size: 80px; 
+}
+
+.f3{
+    font-family: 'Jomhuria';
+    font-weight: 400;
+    font-size: 60px;    
+}
+
+
+html {
+  font-size: 20px;
+}
+
+.f11{ 
+    font-size: 2.5rem;  
+}
+
+.f21{
+    font-size: 2rem;
+}
+
+.f31{
+    font-size: 1.5rem;
+}

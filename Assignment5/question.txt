@@ -1,0 +1,24 @@
+Part 1:-
+Use the structure shown below without modifying it.
+<div>
+  <p>This Is Paragraph</p>
+</div>
+Create the layout exactly as shown in the example.
+Make sure that any change in the padding or border of the parent element (div) is automatically applied 
+to the child element (p) without directly editing the child element.
+
+Part 2:-
+Create the following design using three different fonts:
+In the first shape, use the Open Sans font with a weight of 300 and make it italic.
+In the second shape, use the Cairo font with a weight of 700.
+In the third shape, use the Jomhuria font with a weight of 400.
+
+Make sure each font is imported correctly from Google Fonts.
+
+Part 3:-
+The root element (html) should have a font size of 20px.
+
+Use the root em unit (rem) in the following three elements to achieve the required sizes:
+The first element should have a font size of 50px (in rem).
+The second element should have a font size of 40px (in rem).
+The third element should have a font size of 30px (in rem).

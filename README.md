@@ -17,5 +17,6 @@ Each folder includes a separate assignment with its question and solution (relat
 - Assignment 5: Inheritance, Typography
 - Assignment 6: Float, Opacity 
 - Assignment 7: Position, List, Table
+- Assignment 8: Pseudo Classes, Pseudo Elements
 
 ---

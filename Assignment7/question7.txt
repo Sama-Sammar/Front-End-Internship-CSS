@@ -1,0 +1,74 @@
+Part 1:-
+Use the following structure without modifying it to recreate the same shape:
+
+<div class="green"></div>
+<div class="red"></div>
+<div class="blue"></div>
+<div class="black"></div>
+
+Make sure to:
+Use the exact same colors shown in the example.
+Set the width and height of all elements to 100px.
+Arrange the layers on top of each other.
+The blue element should be positioned 20px from the top and left of the page.
+
+Part 2:-
+Use the following structure and add any classes or attributes as needed to achieve the required design:
+
+<ul>
+  <li>
+    HTML
+    <ol>
+      <li>Slim</li>
+      <li>Pugjs</li>
+      <li>HAML</li>
+    </ol>
+  </li>
+  <li>
+    CSS
+    <ol>
+      <li>SASS</li>
+      <li>LESS</li>
+      <li>PostCSS</li>
+    </ol>
+  </li>
+  <li>
+    JavaScript
+    <ul>
+      <li>Vuejs</li>
+      <li>Sveltejs</li>
+    </ul>
+  </li>
+</ul>
+
+Make sure to:
+The main ul has a width of 400px.
+Center the ul horizontally on the page.
+Use the same colors for all elements (backgrounds, borders, etc.).
+
+Part 3:-
+Use the following structure without modifying it to create the same shape:
+
+<div class="box">
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod, sed.
+    Ea ipsum similique quasi rem, fugiat voluptatibus reiciendis nam debitis
+    earum quo veniam laudantium mollitia atque! Laborum ea nam doloribus.
+        <div class="corner c1">1</div>
+        <div class="corner c2">2</div>
+        <div class="corner c3">3</div>
+        <div class="corner c4">4</div>
+</div>
+
+Make sure to:
+The main div has a width of 400px.
+Center the div horizontally on the page.
+Use the exact same colors, whether for background, borders, or other properties.
+
+
+Part 4:-
+Create the required shape using only a table — do not add any other elements.
+
+Make sure to:
+Center the table horizontally on the page.
+Set the table’s width to 700px.
+Use the exact same colors for all elements (background, borders, etc.).

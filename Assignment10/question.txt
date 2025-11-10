@@ -1,0 +1,48 @@
+Part 1:-
+Requirements:
+Ensure you use the same colors found in the design (light gray, white).
+You must write the Prefixes for the properties that require a Prefix.
+Ensure the parent element goes up in half a second on hover.
+Ensure the child element goes down after waiting half a second.
+
+Part 2:-
+<div style="
+  background-color: red;
+  color: white;
+  padding: 20px;
+  border: 1px solid blue;
+  font-size: 80px;">
+  Hello Div
+</div>
+
+Requirements:
+Use the above structure without modification to create the same shape/design.
+Ensure you use the same colors found in the design (light gray background, black text).
+You have the freedom to do whatever you want in the CSS.
+Ensure the phrase "Hello Div" is changed to "Elzero".
+The element width is 400px and it is centered horizontally.
+The font size is 20px.
+
+Part 3:-
+<div>Element</div>
+<div>Element</div>
+<div>Element</div>
+
+Provided CSS Variables:
+css
+:root {
+  --mainColor: #009688;
+  --mainPadding: 10px;
+}
+
+Requirements:
+Use the above HTML structure without modification to create the required shape.
+In the CSS, do not modify the variables section at all, and only modify the div selector.
+Ensure you use the variables, as we will remove them later.
+Follow-up Instructions (Fallback Test):
+After finishing completely, we will make some adjustments to ensure you set up Fallback values for the variables.
+Cancel the :root element with the variables inside it.
+Ensure the shape will be exactly as shown in the following image (White background, red text, black border).
+
+
+

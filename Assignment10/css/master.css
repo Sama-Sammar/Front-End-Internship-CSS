@@ -1,0 +1,181 @@
+:root {
+    --mainColor: #009688;
+    --mainPadding: 10px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 20px;
+}
+
+.parent-box {
+    width: 500px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    margin: 20px auto;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out;
+    -moz-transition: -moz-transform 0.5s ease-in-out;
+    -o-transition: -o-transform 0.5s ease-in-out;
+    transition: transform 0.5s ease-in-out;
+}
+
+.child-box {
+    background-color: #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 3px;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out 0.5s;
+    -moz-transition: -moz-transform 0.5s ease-in-out 0.5s;
+    -o-transition: -o-transform 0.5s ease-in-out 0.5s;
+    transition: transform 0.5s ease-in-out 0.5s;
+}
+
+.parent-box:hover {
+    -webkit-transform: translateY(-50px);
+    -moz-transform: translateY(-50px);
+    -ms-transform: translateY(-50px);
+    -o-transform: translateY(-50px);
+    transform: translateY(-50px);
+}
+
+.parent-box:hover .child-box {
+    -webkit-transform: translateY(20px);
+    -moz-transform: translateY(20px);
+    -ms-transform: translateY(20px);
+    -o-transform: translateY(20px);
+    transform: translateY(20px);
+}
+
+.task02 {
+    font-size: 0 !important;
+    width: 400px;
+    margin: 20px auto;
+    background-color: #eee !important;
+    color: #000 !important;
+    border: none !important;
+    padding: 20px;
+    text-align: center;
+}
+
+.task02::before {
+    content: "Elzero";
+    font-size: 20px;
+    color: #000;
+    line-height: 1.5;
+}
+
+.task03-container {
+    width: 550px;
+    margin: 40px auto 0 auto;
+}
+
+.task03-container div {
+    background-color: #fff;
+    margin-bottom: var(--mainPadding);
+    padding: var(--mainPadding);
+    border: 2px solid var(--mainColor);
+    color: var(--mainColor);
+    position: relative;
+    font-size: 16px;
+    counter-increment: none;
+}
+
+.task03-container div::before,
+.task03-container div::after {
+    content: none;
+}
+
+/* Note: The :root block defining variables has been removed as requested.
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 20px;
+}
+
+.parent-box {
+    width: 500px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    margin: 20px auto; 
+    -webkit-transition: -webkit-transform 0.5s ease-in-out;
+    -moz-transition: -moz-transform 0.5s ease-in-out;
+    -o-transition: -o-transform 0.5s ease-in-out;
+    transition: transform 0.5s ease-in-out;
+}
+
+.child-box {
+    background-color: #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 3px;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out 0.5s;
+    -moz-transition: -moz-transform 0.5s ease-in-out 0.5s;
+    -o-transition: -o-transform 0.5s ease-in-out 0.5s;
+    transition: transform 0.5s ease-in-out 0.5s;
+}
+
+.parent-box:hover {
+    -webkit-transform: translateY(-50px);
+    -moz-transform: translateY(-50px);
+    -ms-transform: translateY(-50px);
+    -o-transform: translateY(-50px);
+    transform: translateY(-50px);
+}
+
+.parent-box:hover .child-box {
+    -webkit-transform: translateY(20px);
+    -moz-transform: translateY(20px);
+    -ms-transform: translateY(20px);
+    -o-transform: translateY(20px);
+    transform: translateY(20px);
+}
+
+.task02 {
+    font-size: 0 !important; 
+    width: 400px; 
+    margin: 20px auto; 
+    background-color: #eee !important;
+    color: #000 !important;
+    border: none !important;
+    padding: 20px; 
+    text-align: center; 
+}
+
+.task02::before {
+    content: "Elzero";
+    font-size: 20px;
+    color: #000;
+    line-height: 1.5;
+}
+
+.task03-container {
+    width: 550px;
+    margin: 40px auto 0 auto; 
+}
+
+.task03-container div {
+    background-color: #fff; 
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    color: red;
+    position: relative;
+    font-size: 16px;
+    counter-increment: none; 
+}
+
+.task03-container div::before,
+.task03-container div::after {
+    content: none;
+}
+
+*/

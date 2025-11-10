@@ -1,0 +1,39 @@
+Part 1:
+<div></div>
+<div></div>
+<div></div>
+
+Requirements:
+Use the above structure without modification to create the same shape.
+Ensure you use the same colors found in the design (vibrant pink, sky blue, gray, black).
+The width and height of the element is 100px.
+You must write the Prefixes for the properties that require a Prefix.
+The word "Element" and a sequential number (1, 2, 3) must be displayed inside each circle as shown in the image.
+Hint: You can put more than one Shadow for the element in the same property.
+
+Part 2:-
+<div></div>
+
+Requirements:
+Use the above structure without modification to create the same shape.
+Ensure you use the same colors found in the design (white, gray).
+The width and height of the element is 100px.
+You must write the Prefixes for the properties that require a Prefix.
+Ensure the element is centered vertically and horizontally on the screen.
+
+Part 3:-
+<div class="container">
+    <div class="plan basic"></div>
+    <div class="separator"></div>
+    <div class="plan pro"></div>
+</div>
+
+Requirements:
+Ensure you use the same colors found in the design (light blue, light gray, white).
+The parent element that holds all elements has a width of 550px.
+You must write the Prefixes for the properties that require a Prefix.
+Ensure the element is centered horizontally on the screen.
+You must create a design identical to the image (Titles "Basic" and "Pro", Circles "Free" and "$30", and the separating line with the word "Or").
+
+
+

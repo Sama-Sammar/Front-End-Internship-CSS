@@ -20,5 +20,5 @@ Each folder includes a separate assignment with its question and solution (relat
 - Assignment 8: Pseudo Classes, Pseudo Elements
 - Assignment 9: Border Radius, Box Shadow
 - Assignment 10: Transitions, Variables
-
+- Assignment 11: Flex Box
 ---
